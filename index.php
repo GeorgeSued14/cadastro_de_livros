@@ -25,6 +25,7 @@
 	});
 	</script>
 </head>
+<!-- Cometei aqui em galera -->
 <body>
 	<h1> Cadastro de Livros</h1><br>
 	<form action="" method="POST" id="ajax_form">
