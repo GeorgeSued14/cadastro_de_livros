@@ -12,6 +12,5 @@ $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
 
 	echo 'ERROR:' . $e->getMessage();
 }
-
-
+# Esse é um teste
 ?>
